@@ -5,8 +5,8 @@ function insert_Row() {
 	var leftCell = document.createElement("td");
 	var rightCell = document.createElement("td");
 
-	leftCell.innerText = "New cell1";
-	rightCell.innerText = "New cell2"
+	leftCell.innerText = "New Cell1";
+	rightCell.innerText = "New Cell2";
 
 	newRow.appendChild(leftCell);
 	newRow.appendChild(rightCell);
